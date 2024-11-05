@@ -1,6 +1,6 @@
 HTML:
 A estrutura de cada item de carro é envolvida por uma div com a classe car-item.
-O título principal é definido como <h1>, enquanto o valor do produto usa <h2>, conforme solicitado.
+O título principal é definido como "<h1>", enquanto o valor do produto usa "<h2>", conforme solicitado.
 Elementos destacados, como o modelo, ano e quilometragem, têm a classe highlight para aplicar a cor amarela padrão #febe01.
 
 CSS:
