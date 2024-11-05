@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #111;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2rem;
+    color: #111;
+    margin-bottom: 20px;
+}
+
+.car-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+
+.car-item {
+    background-color: #111;
+    color: #febe01;
+    padding: 20px;
+    width: 300px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.car-item h2 {
+    color: #febe01;
+    font-size: 1.5rem;
+}
+
+.car-item p {
+    color: #b2b2b2;
+    margin: 5px 0;
+}
+
+.highlight {
+    color: #febe01;
+}
+
+button {
+    background-color: #febe01;
+    color: #332200;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #ffcc00;
+}
